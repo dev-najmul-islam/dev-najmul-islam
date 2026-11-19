@@ -22,5 +22,4 @@ Access 100+ free online utilities directly at **[NewTechPortal Tools](https://ne
 ---
 
 ⭐ *If you find any of these projects helpful, feel free to star the repositories and check out [NewTechPortal](https://newtechportal.com)!* 
-### 🚀 Portfolio
-**[(https://najmul.newtechportal.com)]**
+**[Portfolio](https://najmul.newtechportal.com)**
